@@ -1,19 +1,4 @@
-# Marek's Enmity plugins
+# Enmity plugins
+A repository for my Enmity plugins. Most of these are forked from NotMarek over here at GitHub. Though I have personally interacted with said user, and they assured me that any malicious code reported to Enmity devs was never actually executed, a lot of people are still angry at there being any aforementioned code to run an RCE in the first place. Therefore, I have removed any malicious code or references to NotMarek's website, for the plugins that they developed. However, I would like to reiterate that for this is a fork, and I cannot take credit for another user's work.
 
-
-## MessageSpoofer
-[Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/MessageSpoofer.js)
-
-[Source](https://github.com/notmarek/enmity-plugins/tree/master/MessageSpoofer)
-## NoDelete
-[Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/NoDelete.js)
-
-[Source](https://github.com/notmarek/enmity-plugins/tree/master/NoDelete)
-## HideBlockedMessages
-[Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/HideBlockedMessages.js)
-
-[Source](https://github.com/notmarek/enmity-plugins/tree/master/HideBlockedMessages)
-## AmongUs
-[Compiled](https://raw.githubusercontent.com/notmarek/enmity-plugins/master/dist/AmongUs.js)
-
-[Source](https://github.com/notmarek/enmity-plugins/tree/master/AmongUs)
+Plugin links (compiled and source) coming shortly. This page is still a work in progress. If you are concerned about the safety of your information, please do not download any files yet! Also, maybe don't use modded Discord clients, as that violates the Discord ToS.
